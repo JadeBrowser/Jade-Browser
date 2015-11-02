@@ -1,7 +1,9 @@
 # Jade-Browser
 A small google chrome app that can view websites.
 
+
 To use:
+
 1. Click "Download ZIP" near the bottom right of the Jade-Browser/Jade-Browser page.
 
 2. Click the "Jade-Browser-master" file on the bottom download bar when it has finished downloading (or alternatively open it up using the built-in app "Files" and right-clicking on the folder "Jade-Browser-master.zip" in your "Downloads" folder and selecting "Open").
